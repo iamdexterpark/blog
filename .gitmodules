@@ -7,3 +7,6 @@
 [submodule "blog/public"]
 	path = blog/public
 	url = https://github.com/iamdexterpark/iamdexterpark.github.io.git
+[submodule "blog/themes/LoveIt"]
+	path = blog/themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
