@@ -6,4 +6,4 @@ description: "My first blog post"
 tags: ["test", "blog"]
 ---
 
-Hello World!
+Hello World
